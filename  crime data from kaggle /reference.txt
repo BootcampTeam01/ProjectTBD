@@ -1,0 +1,3 @@
+https://www.kaggle.com/cityofoakland/oakland-crime-statistics-2011-to-2016#records-for-2011.csv
+
+api :kaggle datasets download -d cityofoakland/oakland-crime-statistics-2011-to-2016
